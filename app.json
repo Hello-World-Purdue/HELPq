@@ -2,8 +2,8 @@
     "name": "HELPq",
     "description": "An extensible, customizable real-time queue system",
     "env": {
-        "ROOT_URL": "https://{SET THIS}.herokuapp.com/",
-        "ADMIN_PASSWORD": "{SET THIS}",
+        "ROOT_URL": "https://helloworldhelpq.herokuapp.com/",
+        "ADMIN_PASSWORD": "HelloWorldPurdue",
         "ADMIN_USERNAME": "admin",
         "DEFAULT_MENTOR": "true",
         "FACEBOOK_CLIENT_ID": "facebook-client-id",
@@ -19,7 +19,6 @@
         "SETTINGS_QUEUE_ENABLED": "true"
     },
     "addons": [
-        "mongolab"
     ],
     "buildpacks": [
         {
