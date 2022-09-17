@@ -16,7 +16,8 @@
         "GOOGLE_ENABLE": false,
         "GOOGLE_SECRET": "google-secret",
         "SETTINGS_EXPIRATION_DELAY": "1800000",
-        "SETTINGS_QUEUE_ENABLED": "true"
+        "SETTINGS_QUEUE_ENABLED": "true",
+        "NODE_TLS_REJECT_UNAUTHORIZED": 0
     },
     "addons": [
         "mongolab"
